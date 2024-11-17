@@ -1,0 +1,11 @@
+{
+    "Auth": true,
+    "Departments": true,
+    "Rooms": true,
+    "Doctors": true,
+    "Service": true,
+    "PatientsAdmin": true,
+    "Patients": true,
+    "MedicalConditions": true,
+    "SurgicalProcedures": true
+}
